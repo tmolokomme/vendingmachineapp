@@ -1,0 +1,6 @@
+export const FETCH_BEVERAGES = 'FETCH_BEVERAGES';
+export const EXPORT_BEVERAGE = 'EXPORT_BEVERAGE';
+export const UPDATE_DISPLAY = 'UPDATE_DISPLAY';
+export const ACCEPT_PAYMENT = 'ACCEPT_PAYMENT';
+export const RESET = 'RESET';
+export const DEDUCT_PRODUCT = 'DEDUCT_PRODUCT';
