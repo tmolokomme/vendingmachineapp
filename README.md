@@ -1,4 +1,4 @@
-# Spring boot + React and Redux example 
+# A SPA Vending machine using Spring boot + React JS
 
 ### Install
 
